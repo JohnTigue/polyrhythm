@@ -22,6 +22,8 @@ the clave. There could be options to do the son clave or the rumba clave, etc.
 is good enough. But notice how the video suggest to modify the playback speed to make
 play along harder or easier. 
 
+[![](./images/john_varney_vid_cover.png)](https://www.youtube.com/watch?v=2UphAzryVpY)
+
 #### Prior art
 This is a list of interesting visualizations and/or tools for polyrhythm. The minimum requirement for
 membership on this list is that there be audio and the the intent is more instructional rather than simply a nice performance.
